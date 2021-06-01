@@ -17,30 +17,31 @@ a {
 }
 
 p {
-    font-family: Arial;
-    color: #00131d;
+    font-family: comicl;
 }
+
 h1 {
-    font-family: Arial;
-    font-size: 100px;
+    font-family: comic;
+    font-size: 50px;
     color: white;
 }
 h3  {
     text-transform: uppercase;
 }
 h4 {
-    font-size: 11px;
-    font-style: oblique;
-    color : white;
+   font-size: 14px;
+    font-style: sans-serif;
+    color: white;
+    font-weight: bold;
 }
 .p1 {
-    font-size: 14px;
-    font-family: Verdana;
-    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
 }
 #p2 {
     line-height: 20px;
-    text-align: 40x;
+    text-align: 20px;
     color: white;
-    text-align: justify;
+    font-weight: bold;
 }
