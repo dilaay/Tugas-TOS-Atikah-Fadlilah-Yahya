@@ -1,2 +1,4 @@
 # Tugas-TOS-Atikah-Fadlilah-Yahya
-membuat latihan html dan css
+Nama  : Atikah Fadlilah Yahya
+NIM   : 531419037
+Kelas : B
