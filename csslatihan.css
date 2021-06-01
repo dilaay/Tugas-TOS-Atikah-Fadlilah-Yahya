@@ -1,7 +1,13 @@
 body {
-    background-color: #f07878; 
-    
+    background-color: white; 
 }
+
+.facebook {
+    height: 80vh;
+    background-image: url(facebook.jpg);
+    background-repeat: no-repeat;
+}
+
 p {
     font-family: Arial;
     color: #00131d;
