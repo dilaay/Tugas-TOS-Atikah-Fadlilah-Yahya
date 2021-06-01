@@ -1,31 +1,48 @@
 body {
     background-color: lightskyblue; 
-    
+   
 }
+
+.facebook {
+    height: 80vh;
+    background-image: url(facebook.jpg);
+    background-repeat: no-repeat;
+}
+
+section {
+    padding: 50px 0;
+}
+
+a {
+    color: black;
+}
+
 p {
-    font-family: Arial;
-    color: #00131d;
+    font-family: comicl;
 }
+
 h1 {
-    font-family: Arial;
-    font-size: 100px;
-    color: darkblue;
+    font-family: comic;
+    font-size: 50px;
+    color: white;
 }
 h3  {
     text-transform: uppercase;
 }
 h4 {
-    font-size: 13px;
-    font-style: italic;
+   font-size: 14px;
+    font-style: sans-serif;
+    color: white;
+    font-weight: bold;
 }
 .p1 {
-    font-size: 14px;
-    font-family: Verdana;
-    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
 }
 #p2 {
     line-height: 20px;
-    text-align: 40x;
-    color: darkred;
-    text-align: justify;
+    text-align: 20px;
+    color: white;
+    font-weight: bold;
 }
