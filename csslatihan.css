@@ -8,6 +8,14 @@ body {
     background-repeat: no-repeat;
 }
 
+section {
+    padding: 50px 0;
+}
+
+a {
+    color: black;
+}
+
 p {
     font-family: Arial;
     color: #00131d;
@@ -15,7 +23,7 @@ p {
 h1 {
     font-family: Arial;
     font-size: 100px;
-    color: darkblue;
+    color: white;
 }
 h3  {
     text-transform: uppercase;
@@ -23,6 +31,7 @@ h3  {
 h4 {
     font-size: 11px;
     font-style: oblique;
+    color : white;
 }
 .p1 {
     font-size: 14px;
@@ -32,6 +41,6 @@ h4 {
 #p2 {
     line-height: 20px;
     text-align: 40x;
-    color: darkred;
+    color: white;
     text-align: justify;
 }
