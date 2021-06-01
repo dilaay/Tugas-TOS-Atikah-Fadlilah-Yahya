@@ -1,0 +1,31 @@
+body {
+    background-color: #f07878; 
+    
+}
+p {
+    font-family: Arial;
+    color: #00131d;
+}
+h1 {
+    font-family: Georgia;
+    font-size: 100px;
+    color: darkblue;
+}
+h3  {
+    text-transform: uppercase;
+}
+h4 {
+    font-size: 12px;
+    font-style: oblique;
+}
+.p1 {
+    font-size: 14px;
+    font-family: Verdana;
+    text-align: center;
+}
+#p2 {
+    line-height: 20px;
+    text-align: 40x;
+    color: darkred;
+    text-align: justify;
+}
